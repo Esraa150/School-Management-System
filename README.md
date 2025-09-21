@@ -6,6 +6,8 @@ It allows an Admin to manage students, teachers and courses, while Students and 
 
 
 
+
+
 Features
 
 Admin
@@ -21,6 +23,8 @@ Enroll in a course.
 Teacher
 View the courses they teach.
 View the list of students enrolled in each of their courses.
+
+
 
 
 
